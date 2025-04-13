@@ -1,0 +1,13 @@
+
+{
+  "name": "discord-translator-bot",
+  "version": "1.0.0",
+  "main": "api/interactions.js",
+  "scripts": {
+    "start": "node api/interactions.js"
+  },
+  "dependencies": {
+    "discord-interactions": "^4.0.0",
+    "openai": "^4.0.0"
+  }
+}
